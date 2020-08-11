@@ -25,9 +25,9 @@
 
 ## :bookmark: About the Project
 
-Project made to connect teachers to students,  developed during the Next Level Week 2.0 offered by [RocketSeat][url-rocketseat] :rocket
+Project made to connect teachers to students,  developed during the Next Level Week 2.0 offered by [RocketSeat][url-rocketseat] :rocket:
 
-:art: Layout 
+## :art: Layout 
 
 Web Version avaible in [Figma][url-figmaWeb]
 
@@ -91,7 +91,7 @@ $ expo start
 The classes was taught by [Diego Fernandes][url-diego], and the content was avaible for one week.
 
 ---
-<h4>
+<h4 align="center">
 Made with :purple_heart: by <a href="www.linkedin.com/in/jessica-zimmerhansl" target="_blank">Jessica Zimmerhansl</a>
 </h4>
 
