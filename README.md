@@ -92,9 +92,8 @@ The classes was taught by [Diego Fernandes][url-diego], and the content was avai
 
 ---
 <h4 align="center">
-Made with :purple_heart: by <a href="www.linkedin.com/in/jessica-zimmerhansl" target="_blank">Jessica Zimmerhansl</a>
+Made with :purple_heart: by <a href="https://www.linkedin.com/in/jessica-zimmerhansl" target="_blank">Jessica Zimmerhansl</a>
 </h4>
-
 
 [url-figmaWeb]: https://www.figma.com/file/2FXNJgjSHWAH1vyol3zldy/Proffy_Web?node-id=0%3A1
 [url-figmaMobile]: https://www.figma.com/file/bFsQEHirdlrLbSuoSuXUXm/Proffy_Mobile?node-id=0%3A1
