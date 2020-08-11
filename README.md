@@ -3,9 +3,9 @@
 </h1>
 
 <h4 align="center">
-    :rocket: Next Level Week 2.0
+    :rocket:  Next Level Week 2.0
     <br />
-    :construction: In construction : construction:
+    :construction:  In construction :construction:
 </h4>
 
 
