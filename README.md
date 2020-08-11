@@ -29,11 +29,11 @@ Project made to connect teachers to students,  developed during the Next Level W
 
 ## :art: Layout 
 
-Web Version avaible in [Figma][url-figmaWeb]
+Web Version available in [Figma][url-figmaWeb]
 
 <img alt="Web Version" src=".github/CapaProffyWeb.png" />
 
-Mobile Version avaible in [Figma][url-figmaMobile]
+Mobile Version available in [Figma][url-figmaMobile]
 
 <img alt="Mobile Version" src=".github/CapaProffyMobile.png" />
 
