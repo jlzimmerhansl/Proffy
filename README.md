@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/jessica-zimmerhansl">
+<a href="https://www.linkedin.com/in/jessica-zimmerhansl">
     <img alt="Linkedin" src="https://img.shields.io/badge/JessicaZimmerhansl-%238257E5?style=flat&logo=LinkedIn&labelColor=#8257E5">
   </a>   
      <a href="https://github.com/jlzimmerhansl/Proffy">
