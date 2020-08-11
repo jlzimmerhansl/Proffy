@@ -63,7 +63,7 @@ The project was divided in three parts:
 $git clone https://github.com/jlzimmerhansl/Proffy.git
 ```
 
-:rocket: How to run?
+## :rocket: How to run?
 
 ```bash
 # Go to server folder
